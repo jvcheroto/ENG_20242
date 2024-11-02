@@ -3,4 +3,6 @@ Laboratório de Programação
 
 Exercícios referentes à Unidade VIII.
 
+
+Professor: Gustavo Nunes Rocha
 Data de entrega: 02/11.
